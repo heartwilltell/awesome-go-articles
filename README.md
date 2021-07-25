@@ -2,6 +2,14 @@
 
 ## Code style and best practices ✍️
 
+[A Tour of Go](https://tour.golang.org/welcome/1)
+
+[How to Write Go Code](https://golang.org/doc/code)
+
+[Effective Go](https://golang.org/doc/effective_go)
+
+[CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+
 [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/gophercon-singapore-2019.html)
 
 [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming)
@@ -11,6 +19,18 @@
 [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
 
 [Go naming tips](https://peter.bourgon.org/blog/2019/04/24/go-naming-tips.html)
+
+## Project Structure and Packages 📦
+
+[Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/)
+
+[Design Philosophy On Packaging](https://www.ardanlabs.com/blog/2017/02/design-philosophy-on-packaging.html)
+
+[Package Oriented Design](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
+
+[Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
+
+[Style guideline for Go packages](https://rakyll.org/style-packages/)
 
 ## Performance
 
