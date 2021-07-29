@@ -2,6 +2,8 @@
 
 ## Code style and best practices ✍️
 
+[Go Proverbs](http://go-proverbs.github.io)
+
 [A Tour of Go](https://tour.golang.org/welcome/1)
 
 [How to Write Go Code](https://golang.org/doc/code)
